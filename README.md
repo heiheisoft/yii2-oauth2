@@ -23,7 +23,7 @@ If you use Packagist for installing packages, then you can update your composer.
 ``` json
 {
     "require": {
-        "sweelix/yii2-oauth2-server": "~1.2.0"
+        "heihei/yii2-oauth2-server": "~1.2.0"
     }
 }
 ```
