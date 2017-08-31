@@ -15,7 +15,7 @@ return [
     'basePath' => __DIR__ . '/../../src',
     // Force vendor path to avoid misconfiguration
     'vendorPath' => __DIR__.'/../../vendor',
-    'id' => 'sweelix/yii2-oauth2-server-testing',
+    'id' => 'heihei/yii2-oauth2-server-testing',
     'timeZone' => 'Europe/Paris',
     'bootstrap' => ['oauth2'],
     'modules' => [

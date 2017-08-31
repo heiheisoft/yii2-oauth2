@@ -6,8 +6,8 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Philippe Gaultier",
-            "email": "pgaultier@gmail.com"
+            "name": "King Lin",
+            "email": "dejin@aliyun.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
         "ext-openssl": "*",
         "yiisoft/yii2": "~2.0",
         "yiisoft/yii2-redis": "~2.0",
-        "bshaffer/oauth2-server-php": "~1.8",
+        "bshaffer/oauth2-server-php": "~1.9",
         "yiisoft/yii2-bootstrap": "~2.0"
     },
     "require-dev" : {
@@ -35,7 +35,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-devel": "1.2.x-dev"
+            "dev-devel": "2.0.x-dev"
         }
     }
 }
